@@ -1,0 +1,5 @@
+Opgave 2: Lav den om til reel vækst i kr og derefter change kvt/foreg kvartal
+
+Opgave 3: Check hvor data for forbrug i kr kommer fra
+
+Byt om på x og y var i opg 3 (11 mod fti)
